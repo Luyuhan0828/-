@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32002.261
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "暑期刷题测试", "暑期刷题测试\暑期刷题测试.vcxproj", "{B18768F6-23F8-4153-B7FA-6EAC9DAC62B0}"
 EndProject
@@ -118,6 +118,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "A1010", "A1010\A1010.vcxproj", "{53A28BFF-FACC-4882-B6D5-00057D8C6D7D}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "A1044", "A1044\A1044.vcxproj", "{DB32DFA2-068F-496E-9AE6-6219FA5131DC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "B1040", "B1040\B1040.vcxproj", "{EA65F958-2FB1-4E8B-84BF-A8C5A53EFED6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -591,6 +593,14 @@ Global
 		{DB32DFA2-068F-496E-9AE6-6219FA5131DC}.Release|x64.Build.0 = Release|x64
 		{DB32DFA2-068F-496E-9AE6-6219FA5131DC}.Release|x86.ActiveCfg = Release|Win32
 		{DB32DFA2-068F-496E-9AE6-6219FA5131DC}.Release|x86.Build.0 = Release|Win32
+		{EA65F958-2FB1-4E8B-84BF-A8C5A53EFED6}.Debug|x64.ActiveCfg = Debug|x64
+		{EA65F958-2FB1-4E8B-84BF-A8C5A53EFED6}.Debug|x64.Build.0 = Debug|x64
+		{EA65F958-2FB1-4E8B-84BF-A8C5A53EFED6}.Debug|x86.ActiveCfg = Debug|Win32
+		{EA65F958-2FB1-4E8B-84BF-A8C5A53EFED6}.Debug|x86.Build.0 = Debug|Win32
+		{EA65F958-2FB1-4E8B-84BF-A8C5A53EFED6}.Release|x64.ActiveCfg = Release|x64
+		{EA65F958-2FB1-4E8B-84BF-A8C5A53EFED6}.Release|x64.Build.0 = Release|x64
+		{EA65F958-2FB1-4E8B-84BF-A8C5A53EFED6}.Release|x86.ActiveCfg = Release|Win32
+		{EA65F958-2FB1-4E8B-84BF-A8C5A53EFED6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
